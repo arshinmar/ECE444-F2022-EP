@@ -11,6 +11,26 @@ This is a modified version of the previous Assignment1 template.
 
 The deployed version can be found at https://lab3-docker.herokuapp.com.
 
+**Activity 1: Readme Cleanup**
+
+Commit Hash: 46edb62d60e4e3dfb63345b73039ee8f7b81d06a
+
+**Activity 2: Docker Installation**
+
+<img src="docker_installation.png" alt="Docker Installation">
+
+**Activity 3: Local Running**
+
+<img src="local_running.png" alt="Local NPM Running">
+
+**Activity 4: Docker Steps**
+
+<img src="docker_steps.png" alt="Docker Step Execution">
+
+**Activity 5: Docker Running**
+
+<img src="docker_running.png" alt="Docker Running">
+
 ## Changes
 + Removed hardcodes of backend urls.
 + Removed hardcodes of database, and replace the database with dummy static data.
